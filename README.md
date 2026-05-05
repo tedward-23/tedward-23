@@ -10,7 +10,7 @@ I build deployment systems, infrastructure automation, observability foundations
 - Kubernetes platforms, GitOps workflows, and CI/CD automation
 - Terraform modules, environment provisioning, and infrastructure reliability
 - Observability, release automation, and deployment safety
-- Building Laminar CLI, an internal deployment platform for AWS workloads
+- Platform tooling for reliable cloud workload delivery
 
 ## Selected Work
 
