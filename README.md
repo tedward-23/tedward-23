@@ -2,7 +2,7 @@
 
 Senior DevOps and Cloud Infrastructure Engineer focused on Kubernetes, Terraform, CI/CD, observability, AI infrastructure, and cloud-native platforms across AWS, Azure, and GCP.
 
-I build infrastructure automation, deployment workflows, and runtime foundations that help teams ship reliably without losing ownership of their cloud environments. I am also expanding deeper into AI infrastructure and MLOps foundations for model-serving and data-driven workloads.
+I build infrastructure automation, deployment workflows, and runtime foundations that help teams ship reliably without losing ownership of their cloud environments. I am also expanding deeper into AI infrastructure for model serving and data-driven workloads.
 
 ## What I Work On
 
@@ -11,7 +11,7 @@ I build infrastructure automation, deployment workflows, and runtime foundations
 - CI/CD pipelines with security, quality, and observability gates
 - Cloud networking, IAM, secrets management, and release automation
 - Platform tooling for reliable cloud and AI workload delivery
-- AI infrastructure and MLOps foundations for model-serving workflows
+- AI infrastructure foundations for model-serving workflows
 
 ## Open Source Work
 
@@ -21,6 +21,7 @@ I build infrastructure automation, deployment workflows, and runtime foundations
 ## Selected Infrastructure Work
 
 - [terraform-rke2-monitoring-logging](https://github.com/tedward-23/terraform-rke2-monitoring-logging) - Terraform-managed RKE2 Kubernetes platform with Prometheus, Grafana, logging, ingress, and certificate automation.
+- [gemma-local-ai-infra](https://github.com/tedward-23/gemma-local-ai-infra) - Local Gemma model-serving stack with FastAPI, Ollama, Docker Compose, Prometheus metrics, Grafana, readiness checks, and benchmarking.
 - [CI-CD-Project](https://github.com/tedward-23/CI-CD-Project) - Jenkins-based CI/CD workflow with Docker, SonarQube, Trivy, OWASP checks, Prometheus, and Grafana.
 - [Netflic_cicd](https://github.com/tedward-23/Netflic_cicd) - React/TypeScript app packaged with Docker, Jenkins, and Kubernetes deployment assets.
 
@@ -31,7 +32,7 @@ Infrastructure: Terraform, CloudFormation, ARM, Ansible, Kubernetes, Helm, Docke
 CI/CD: GitHub Actions, GitLab CI/CD, Jenkins, Azure DevOps, ArgoCD  
 Observability: Prometheus, Grafana, CloudWatch, Azure Monitor, Loki, SigNoz, OpenTelemetry  
 Security: IAM, Vault, Trivy, SonarQube, OWASP Dependency Check, TFLint  
-AI/MLOps: model-serving infrastructure, workload automation, Python-based platform tooling  
+AI Infrastructure: model-serving infrastructure, workload automation, Python-based platform tooling  
 Development: Go, Python, Bash, PowerShell, TypeScript, JavaScript
 
 ## Certifications
