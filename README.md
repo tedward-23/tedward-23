@@ -1,8 +1,8 @@
 # Tewodros Desta
 
-Senior DevOps and Cloud Infrastructure Engineer focused on Kubernetes, Terraform, CI/CD, observability, and cloud-native platforms across AWS, Azure, and GCP.
+Senior DevOps and Cloud Infrastructure Engineer focused on Kubernetes, Terraform, CI/CD, observability, AI infrastructure, and cloud-native platforms across AWS, Azure, and GCP.
 
-I build infrastructure automation, deployment workflows, and runtime foundations that help teams ship reliably without losing ownership of their cloud environments.
+I build infrastructure automation, deployment workflows, and runtime foundations that help teams ship reliably without losing ownership of their cloud environments. I am also expanding deeper into AI infrastructure and MLOps foundations for model-serving and data-driven workloads.
 
 ## What I Work On
 
@@ -10,7 +10,8 @@ I build infrastructure automation, deployment workflows, and runtime foundations
 - Terraform modules, environment provisioning, and infrastructure reliability
 - CI/CD pipelines with security, quality, and observability gates
 - Cloud networking, IAM, secrets management, and release automation
-- Platform tooling for reliable cloud workload delivery
+- Platform tooling for reliable cloud and AI workload delivery
+- AI infrastructure and MLOps foundations for model-serving workflows
 
 ## Open Source Work
 
@@ -31,6 +32,7 @@ Infrastructure: Terraform, CloudFormation, ARM, Ansible, Kubernetes, Helm, Docke
 CI/CD: GitHub Actions, GitLab CI/CD, Jenkins, Azure DevOps, ArgoCD  
 Observability: Prometheus, Grafana, CloudWatch, Azure Monitor, Loki, SigNoz, OpenTelemetry  
 Security: IAM, Vault, Trivy, SonarQube, OWASP Dependency Check, TFLint  
+AI/MLOps: model-serving infrastructure, workload automation, Python-based platform tooling  
 Development: Go, Python, Bash, PowerShell, TypeScript, JavaScript
 
 ## Certifications
