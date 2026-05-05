@@ -15,8 +15,10 @@ I build infrastructure automation, deployment workflows, and runtime foundations
 ## Open Source Proof
 
 - [Expensify/App PR #80440](https://github.com/Expensify/App/pull/80440) - Merged contribution migrating icon UI controls and actions to lazy loading across 112 files.
-- [expnt/containers PR #41](https://github.com/expnt/containers/pull/41) - Merged tooling version update for `xep-python-iac`.
-- [expnt/containers PR #43](https://github.com/expnt/containers/pull/43) - Merged TimescaleDB plugin version update.
+- [expnt/containers contributions](https://github.com/expnt/containers/pulls?q=is%3Apr+author%3Atedward-23) - 10 authored merged PRs and 29 attributed commits across Earthly builds, multi-platform container publishing, smart build detection, Python IaC images, Bitnami mirrors, CI fixes, and TimescaleDB tooling.
+- [expnt/containers PR #1](https://github.com/expnt/containers/pull/1) - Introduced centralized Docker builds with Earthly.
+- [expnt/containers PR #2](https://github.com/expnt/containers/pull/2) - Added multi-platform build support.
+- [expnt/containers PR #4](https://github.com/expnt/containers/pull/4) - Added Python CI image support and smart changed-container build detection.
 
 ## Selected Infrastructure Work
 
