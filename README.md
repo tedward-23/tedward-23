@@ -18,6 +18,7 @@ I build deployment systems, infrastructure automation, observability foundations
 - [CI-CD-Project](https://github.com/tedward-23/CI-CD-Project) - Jenkins-based CI/CD workflow with Docker, SonarQube, Trivy, OWASP checks, Prometheus, and Grafana.
 - [Netflic_cicd](https://github.com/tedward-23/Netflic_cicd) - React application packaged with Docker, Jenkins, and Kubernetes deployment assets.
 - [40DaysOfK8sChallenge](https://github.com/tedward-23/40DaysOfK8sChallenge) - Kubernetes practice and reference material covering cluster, workload, and operational basics.
+- [Expensify/App PR #80440](https://github.com/Expensify/App/pull/80440) - Merged open-source contribution migrating icon UI controls and actions to lazy loading across 112 files.
 - [expnt/containers contributions](https://github.com/expnt/containers/pulls?q=is%3Apr+author%3Atedward-23) - Public container/tooling maintenance work, including merged updates for xep-python-iac and TimescaleDB plugin versions.
 
 ## Core Stack
