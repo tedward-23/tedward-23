@@ -21,7 +21,7 @@ I build infrastructure automation, deployment workflows, and runtime foundations
 ## Selected Infrastructure Work
 
 - [terraform-rke2-monitoring-logging](https://github.com/tedward-23/terraform-rke2-monitoring-logging) - Terraform-managed RKE2 Kubernetes platform with Prometheus, Grafana, logging, ingress, and certificate automation.
-- [gemma-local-ai-infra](https://github.com/tedward-23/gemma-local-ai-infra) - Local Gemma model-serving stack with FastAPI, Ollama, Docker Compose, Prometheus metrics, Grafana, readiness checks, and benchmarking.
+- [gemma-ai-infra](https://github.com/tedward-23/gemma-ai-infra) - Gemma model-serving infrastructure with FastAPI, Ollama, Docker Compose, Prometheus metrics, Grafana dashboards, readiness checks, benchmarking, and CI container scanning.
 - [CI-CD-Project](https://github.com/tedward-23/CI-CD-Project) - Jenkins-based CI/CD workflow with Docker, SonarQube, Trivy, OWASP checks, Prometheus, and Grafana.
 - [Netflic_cicd](https://github.com/tedward-23/Netflic_cicd) - React/TypeScript app packaged with Docker, Jenkins, and Kubernetes deployment assets.
 
