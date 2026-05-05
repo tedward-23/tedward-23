@@ -1,27 +1,31 @@
 # Tewodros Desta
 
-Senior DevOps and Cloud Infrastructure Engineer focused on Kubernetes, Terraform, CI/CD, and cloud-native platform work across AWS, Azure, and GCP.
+Senior DevOps and Cloud Infrastructure Engineer focused on Kubernetes, Terraform, CI/CD, observability, and cloud-native platforms across AWS, Azure, and GCP.
 
-I build deployment systems, infrastructure automation, observability foundations, and secure runtime environments for teams that need reliable delivery without turning every developer into an infrastructure specialist.
+I build infrastructure automation, deployment workflows, and runtime foundations that help teams ship reliably without losing ownership of their cloud environments.
 
-## Current Focus
+## What I Work On
 
-- Cloud infrastructure and platform engineering for production systems
-- Kubernetes platforms, GitOps workflows, and CI/CD automation
+- Kubernetes platforms, GitOps workflows, and production workload operations
 - Terraform modules, environment provisioning, and infrastructure reliability
-- Observability, release automation, and deployment safety
+- CI/CD pipelines with security, quality, and observability gates
+- Cloud networking, IAM, secrets management, and release automation
 - Platform tooling for reliable cloud workload delivery
 
-## Selected Work
+## Open Source Proof
 
-- [terraform-rke2-monitoring-logging](https://github.com/tedward-23/terraform-rke2-monitoring-logging) - Terraform-managed RKE2 Kubernetes platform with Prometheus, Grafana, and logging components.
+- [Expensify/App PR #80440](https://github.com/Expensify/App/pull/80440) - Merged contribution migrating icon UI controls and actions to lazy loading across 112 files.
+- [expnt/containers PR #41](https://github.com/expnt/containers/pull/41) - Merged tooling version update for `xep-python-iac`.
+- [expnt/containers PR #43](https://github.com/expnt/containers/pull/43) - Merged TimescaleDB plugin version update.
+
+## Selected Infrastructure Work
+
+- [terraform-rke2-monitoring-logging](https://github.com/tedward-23/terraform-rke2-monitoring-logging) - Terraform-managed RKE2 Kubernetes platform with Prometheus, Grafana, logging, ingress, and certificate automation.
 - [CI-CD-Project](https://github.com/tedward-23/CI-CD-Project) - Jenkins-based CI/CD workflow with Docker, SonarQube, Trivy, OWASP checks, Prometheus, and Grafana.
-- [Netflic_cicd](https://github.com/tedward-23/Netflic_cicd) - React application packaged with Docker, Jenkins, and Kubernetes deployment assets.
-- [40DaysOfK8sChallenge](https://github.com/tedward-23/40DaysOfK8sChallenge) - Kubernetes practice and reference material covering cluster, workload, and operational basics.
-- [Expensify/App PR #80440](https://github.com/Expensify/App/pull/80440) - Merged open-source contribution migrating icon UI controls and actions to lazy loading across 112 files.
-- [expnt/containers contributions](https://github.com/expnt/containers/pulls?q=is%3Apr+author%3Atedward-23) - Public container/tooling maintenance work, including merged updates for xep-python-iac and TimescaleDB plugin versions.
+- [Netflic_cicd](https://github.com/tedward-23/Netflic_cicd) - React/TypeScript app packaged with Docker, Jenkins, and Kubernetes deployment assets.
+- [40DaysOfK8sChallenge](https://github.com/tedward-23/40DaysOfK8sChallenge) - Kubernetes lab notes and manifests covering core workload and operations concepts.
 
-## Core Stack
+## Stack
 
 Cloud: AWS, Azure, GCP, OpenStack, Infomaniak, OVHcloud  
 Infrastructure: Terraform, CloudFormation, ARM, Ansible, Kubernetes, Helm, Docker  
