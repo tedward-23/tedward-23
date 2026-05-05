@@ -23,7 +23,6 @@ I build infrastructure automation, deployment workflows, and runtime foundations
 - [terraform-rke2-monitoring-logging](https://github.com/tedward-23/terraform-rke2-monitoring-logging) - Terraform-managed RKE2 Kubernetes platform with Prometheus, Grafana, logging, ingress, and certificate automation.
 - [CI-CD-Project](https://github.com/tedward-23/CI-CD-Project) - Jenkins-based CI/CD workflow with Docker, SonarQube, Trivy, OWASP checks, Prometheus, and Grafana.
 - [Netflic_cicd](https://github.com/tedward-23/Netflic_cicd) - React/TypeScript app packaged with Docker, Jenkins, and Kubernetes deployment assets.
-- [40DaysOfK8sChallenge](https://github.com/tedward-23/40DaysOfK8sChallenge) - Kubernetes lab notes and manifests covering core workload and operations concepts.
 
 ## Stack
 
