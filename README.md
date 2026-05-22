@@ -1,6 +1,6 @@
 # Tewodros Desta
 
-Senior DevOps and Cloud Infrastructure Engineer focused on Kubernetes, Terraform, CI/CD, observability, AI infrastructure, and cloud-native platforms across AWS, Azure, and GCP.
+DevOps and Cloud Infrastructure Engineer focused on Kubernetes, Terraform, CI/CD, observability, AI infrastructure, and cloud-native platforms across AWS, Azure, and GCP.
 
 I build infrastructure automation, deployment workflows, and runtime foundations that help teams ship reliably without losing ownership of their cloud environments. I am also expanding deeper into AI infrastructure for model serving and data-driven workloads.
 
